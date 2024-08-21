@@ -1,4 +1,4 @@
-num = 10
+num = 105
 
 if num == 20:
   print("XD")
